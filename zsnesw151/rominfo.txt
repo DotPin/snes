@@ -1,0 +1,7 @@
+This is the info for the last game you ran.
+
+File: Dixie Kong's Double Trouble (U).smc Header: Yes
+DONKEY KONG COUNTRY 3     TYPE:NORMAL   
+INTERLEAVED:No               CHKSUM:OK  
+VIDEO:NTSC    BANK:Hi     CRC32:448EEC19
+                                        

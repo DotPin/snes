@@ -1,0 +1,16 @@
+Reading config file D:\Juegos\snes\snes9x-1.53-win32-x64/snes9x.conf.
+Saving	config file	D:\Juegos\snes\snes9x-1.53-win32-x64/snes9x.conf
+Sound buffer size: 8192 (2048 samples)
+Found ROM file header (and ignored it).
+Map_LoROMMap
+"SUPER CASTLEVANIA 4" [checksum ok] LoROM, 8Mbits, ROM, NTSC, SRAM:0Kbits, ID:____, CRC32:B64FFB12
+Sound buffer size: 8192 (2048 samples)
+Saving	config file	D:\Juegos\snes\snes9x-1.53-win32-x64/snes9x.conf
+Saving	config file	D:\Juegos\snes\snes9x-1.53-win32-x64/snes9x.conf
+Saving	config file	D:\Juegos\snes\snes9x-1.53-win32-x64/snes9x.conf
+Saving	config file	D:\Juegos\snes\snes9x-1.53-win32-x64/snes9x.conf
+Saving	config file	D:\Juegos\snes\snes9x-1.53-win32-x64/snes9x.conf
+Saving	config file	D:\Juegos\snes\snes9x-1.53-win32-x64/snes9x.conf
+Saving	config file	D:\Juegos\snes\snes9x-1.53-win32-x64/snes9x.conf
+Saving	config file	D:\Juegos\snes\snes9x-1.53-win32-x64/snes9x.conf
+Saving	config file	D:\Juegos\snes\snes9x-1.53-win32-x64/snes9x.conf
